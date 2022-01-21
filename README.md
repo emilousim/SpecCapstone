@@ -14,6 +14,7 @@
 
 #### 4. Data Source:
   - https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36
+  - https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
   
 #### 5. Acceptance Criteria
     - Users can see how many deaths there have been in each state, in ascending order. 
