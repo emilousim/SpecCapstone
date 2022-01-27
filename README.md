@@ -3,9 +3,9 @@
 
 ## Ideas 
 
-#### 1. How many COVID deaths have there been by state in the US?
+#### 1. How much are Netflix subscriptions globally?
 
-#### 2. This will show how many deaths there have been in each state thus far.
+#### 2. This will show how much each country pays for regular and premium netflix subscription
 
 #### 3. Stack:
   - Python
@@ -13,8 +13,7 @@
   - Matplotlib - Visualization
 
 #### 4. Data Source:
-  - https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36
-  - https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
-  
+  - https://www.comparitech.com/blog/vpn-privacy/countries-netflix-cost/
 #### 5. Acceptance Criteria
-    - Users can see how many deaths there have been in each state, in ascending order. 
+    - Users can see how much Netflix subscriptions cost in different countries
+    
